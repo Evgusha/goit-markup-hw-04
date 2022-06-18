@@ -196,6 +196,10 @@ body {
     border-radius: 4px;
     margin-bottom: 30px;
 }
+.icon-grey {
+    width: 70px;    
+    height: 70px;
+}
 .benefits-item {
     width: 270px;    
     height: 251px;
