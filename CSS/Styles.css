@@ -189,10 +189,16 @@ body {
 
 .benefits-item:not(:last-child) {
     margin-right: 30px;
+    
 }   
+.benefits-icon {
+    background: #F5F4FA;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
 .benefits-item {
     width: 270px;    
-    height: 101px;
+    height: 251px;
 }
 .benefits-title {
     font-size: 14px;
