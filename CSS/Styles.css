@@ -98,7 +98,7 @@ body {
 }
 
 
-.header-item:hover, .mail:hover, .header-item:focus, .mail:focus, .tel:hover,.tel:focus {
+.header-item:hover, .mail:hover, .header-item:focus, .mail:focus, .tel:hover,.tel:focus, .icon-mail:hover .icon-mail:focus {
     color: var(--accent-color);
 }
 
