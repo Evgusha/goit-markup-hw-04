@@ -97,9 +97,6 @@ body {
    fill: currentColor;
 }
 
-/* .icon-hager:hover, .icon-hager:focus {
-    fill: var(--accent-color);
- } */
 .header-item:hover, .mail:hover, .header-item:focus, .mail:focus, .tel:hover,.tel:focus {
     color: var(--accent-color);
     fill: var(--accent-color);
@@ -193,13 +190,15 @@ body {
     
 }   
 .benefits-icon {
-    background: #F5F4FA;
-    border-radius: 4px;
-    margin-bottom: 30px;
+    width: 70px;    
+    height: 70px;  
 }
 .icon-grey {
-    width: 70px;    
-    height: 70px;
+   background: #F5F4FA;
+    border-radius: 4px;
+    margin-bottom: 30px; 
+    width: 270px;    
+    height: 120px;
 }
 .benefits-item {
     width: 270px;    
